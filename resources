@@ -1,0 +1,6 @@
+reading registers: https://stackoverflow.com/questions/48785758/how-does-gdb-read-the-register-values-of-a-program-process-its-debugging-how
+playing with ptrace:  https://www.linuxjournal.com/article/6100
+
+Liz rice's talk on debuggers from stcratch -
+ https://youtu.be/TBrv17QyUE0  - part1
+https://youtu.be/ZrpkrMKYvqQ  - part2
